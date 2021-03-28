@@ -1,0 +1,11 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "author": "Lucas Coelho <58010418+LucasVinicius314@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.3.0",
+    "@types/node": "^14.14.37"
+  }
+}
