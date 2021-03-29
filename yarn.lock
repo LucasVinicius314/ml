@@ -176,6 +176,11 @@ emoji-regex@^8.0.0:
   resolved "https://registry.yarnpkg.com/emoji-regex/-/emoji-regex-8.0.0.tgz#e818fd69ce5ccfcb404594f842963bf53164cc37"
   integrity sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==
 
+ervy@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/ervy/-/ervy-1.0.7.tgz#b4167707ef178484c7b84d7d6e8cca727cf7f252"
+  integrity sha512-LyHLPwIKxCKKtTO/qBMFzwA1BD5IjpM0AA3k6CeK9hrEn4Kbayi93G9eD/Ko4suEIjerSl7YpMmaOoL0g9OCoQ==
+
 escalade@^3.1.1:
   version "3.1.1"
   resolved "https://registry.yarnpkg.com/escalade/-/escalade-3.1.1.tgz#d8cfdc7000965c5a0174b4a82eaa5c0552742e40"
